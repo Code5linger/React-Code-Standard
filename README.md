@@ -20,3 +20,26 @@ Every console.log will be printed twice.
 
     1. Make Sure the application is actually running
     2. Stop the app & then restart it
+
+    # Standard Practice:
+        Always Keep VS Code's Teminal & Browsers Console Open
+
+# 3 🧰 Tools
+
+    1. VS Code - ES Lint
+
+# 4 〽️ Alternatives
+
+    Functions
+        function Header() {}
+        -OR-
+        const Header = () => {}
+
+
+
+    [1-U-TURC23RR]
+    [1-U-TURC23RR][Basic]
+    [1-U-TURC23RR][Debugging]
+    [1-U-TURC23RR][Components]
+    [1-U-TURC23RR][JSX]
+    [1-U-TURC23RR][JSinReact]
