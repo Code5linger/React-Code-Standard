@@ -16,4 +16,7 @@ During Development It render our component twice in order to find bugs, meanwhil
 
 Every console.log will be printed twice.
 
-# 2
+# 2 ⚠️ ISSUE - Changes not being updated
+
+    1. Make Sure the application is actually running
+    2. Stop the app & then restart it
