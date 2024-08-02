@@ -35,6 +35,15 @@ Every console.log will be printed twice.
         -OR-
         const Header = () => {}
 
+    State Update
+        () => setIsOpen(!isOpen)    // Meh
+        -TO-
+        () => setIsOpen((is) => !is)    // Better
+
+        setStep(step - 1)   // Meh
+        -TO-
+        setStep((currentStep) => currentStep - 1)
+
 
 
     [1-U-TURC23RR]
@@ -45,4 +54,4 @@ Every console.log will be printed twice.
     [1-U-TURC23RR][JSinReact]
     [1-U-TURC23RR][Props]
 
-1 + 14.75 + 7.5 + 
+6.5 + 6.5 + 
