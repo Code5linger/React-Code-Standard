@@ -43,3 +43,6 @@ Every console.log will be printed twice.
     [1-U-TURC23RR][Components]
     [1-U-TURC23RR][JSX]
     [1-U-TURC23RR][JSinReact]
+    [1-U-TURC23RR][Props]
+
+1 + 14.75 + 7.5 + 
