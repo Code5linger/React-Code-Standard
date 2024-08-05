@@ -44,9 +44,16 @@ Every console.log will be printed twice.
         -TO-
         setStep((currentStep) => currentStep - 1)
 
+    Refactor
+        Every Components should have it's own file
+            Use VS Codes refactor tool
+
+# 5 ⏹️Tasks
+
+    Identify Each Type of component
 
 
-    [1-U-TURC23RR]
+    [1-U-TURC23RR][🥈]
     [1-U-TURC23RR][Basic]
     [1-U-TURC23RR][Debugging]
     [1-U-TURC23RR][Components]
@@ -54,4 +61,4 @@ Every console.log will be printed twice.
     [1-U-TURC23RR][JSinReact]
     [1-U-TURC23RR][Props]
 
-6.5 + 6.5 + 
+16.25 + 6 + 1.125 + 19.5 + 7.5 + 2 + 
